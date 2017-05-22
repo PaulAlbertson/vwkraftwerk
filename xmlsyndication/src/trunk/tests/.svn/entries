@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="557"
+   name=""
+   committed-date="2006-04-14T16:54:47.047680Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/tests"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   name="XmlSyndicationTestRunner"
+   kind="dir"/>
+</wc-entries>

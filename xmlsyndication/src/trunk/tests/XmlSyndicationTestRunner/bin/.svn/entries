@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="557"
+   name=""
+   committed-date="2006-04-14T16:54:47.047680Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/tests/XmlSyndicationTestRunner"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   committed-rev="557"
+   name="XmlSyndicationTestRunner.as"
+   text-time="2006-07-03T21:44:23.242244Z"
+   committed-date="2006-04-14T16:54:47.047680Z"
+   checksum="25919030607edc3b39a92784b57721f2"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.232230Z"/>
+<entry
+   committed-rev="482"
+   name="XmlSyndicationTestRunner.mxml"
+   text-time="2006-07-03T21:44:23.252259Z"
+   committed-date="2006-03-15T04:48:22.017927Z"
+   checksum="ae6da11336c0d6545311d37dcbf4644c"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.232230Z"/>
+</wc-entries>
